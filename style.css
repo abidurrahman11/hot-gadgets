@@ -1,0 +1,126 @@
+.navbar-brand img{
+    width: 120px;
+}
+.container{
+    padding-bottom: 50px;
+}
+.buy-now-btn{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 8px 20px;
+}
+.buy-now-btn:hover{
+    background: linear-gradient(45deg, rgb(34, 1, 1), rgb(50, 50, 54));
+    color: white;
+}
+.right-car h1, p{
+    padding-bottom: 20px;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: rgb(182, 119, 2);
+    padding: 1px 0;
+}
+.carousel-control-next-icon{
+    background-image: none;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 2%;
+}
+.image-car img{
+    padding: 15px;
+}
+.right-car{
+    padding: 15px;
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: contain;
+}
+.image-car{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.navbar-brand{
+    margin-right: 45%;
+}
+
+.text-formatting{
+    text-align: center;
+}
+.title{
+    padding-bottom: 25px;
+}
+.title a{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(182, 119, 2);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px gray;
+}
+.cat-h2{
+    text-align: center;
+}
+.about-border {
+    display: block;
+    width: 110px;
+    height: 6px;
+    border-radius: 5px;
+    background: linear-gradient(35deg, yellow, orange);
+    margin: 16px auto;
+    max-width: 70%;
+}
+.cat-right-img{
+    padding: 15px;
+}
+.cat-box-main{
+    padding: 20px;
+}
+.cat-box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 2px 20px 30px;
+    text-align: center;
+}
+.cat-box2{
+    margin: 20px 30px 20px 10px;
+    text-align: center;
+}
+.perfume-box{
+    box-shadow: 1px 1px 10px gray;
+    padding: 10px;
+    border-radius: 5px;
+    min-width:fit-content;
+}
+.shoe-box{
+    box-shadow: 1px 1px 10px gray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    min-width:fit-content;
+}
+.bag-box{
+    box-shadow: 1px 1px 10px gray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    min-width:fit-content;
+}
+.perfume-box, .bag-box, .shoe-box img{
+    width: 100%;
+}
+.credit{
+    text-align: center;
+    color: gray;
+}
+small a{
+    text-decoration: none;
+    color: rgb(182, 119, 2);
+}
